@@ -33,3 +33,5 @@ This will replace the existing Caps_Lock functionality, with the one in Windows.
 3. Restart your computer.
 
 From my experience, this persists through restart unlike other solutions and works prior to logging in as well.
+
+https://github.com/hyprwm/Hyprland/discussions/11227
